@@ -1,0 +1,9 @@
+
+a {
+    display: block;
+}
+
+main {
+    width: 50vw;
+    columns: 3;
+}
